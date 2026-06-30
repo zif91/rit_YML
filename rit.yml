@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-06-30T23:01:52+03:00">
+    <shop>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="101">Организация похорон</category>
+            <category id="102">Кремация</category>
+            <category id="103">Захоронение и погребение</category>
+            <category id="104">Ритуальный транспорт / Груз 200</category>
+            <category id="105">Оформление документов</category>
+            <category id="106">Поминальная трапеза</category>
+            <category id="107">Сопутствующие ритуальные услуги</category>
+        </categories>
+        <offers>
+            <offer id="srv001" available="true">
+                <price>18500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>101</categoryId>
+                <picture>https://spb-grs.ru/wp-content/uploads/organizaciya-pohoron.jpg</picture>
+                <name>Вызов ритуального агента</name>
+                <description>Круглосуточный выезд квалифицированного ритуального агента для организации и координации всех этапов похоронного процесса.</description>
+            </offer>
+            <offer id="srv002" available="true">
+                <price>32000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>101</categoryId>
+                <picture>https://spb-grs.ru/wp-content/uploads/complex-pohorony.jpg</picture>
+                <name>Комплексная организация похорон «Стандарт»</name>
+                <description>Полный комплекс услуг по организации погребения, включая подбор ритуальных принадлежностей и оформление документов.</description>
+            </offer>
+            <offer id="srv003" available="true">
+                <price>26000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>102</categoryId>
+                <picture>https://spb-grs.ru/wp-content/uploads/kremaciya.jpg</picture>
+                <name>Организация кремации в Санкт-Петербургском крематории</name>
+                <description>Сбор необходимых документов, заказ времени кремации, доставка гроба и сопровождение в крематории.</description>
+            </offer>
+            <offer id="srv004" available="true">
+                <price>15000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>103</categoryId>
+                <picture>https://spb-grs.ru/wp-content/uploads/zahoronenye.jpg</picture>
+                <name>Подготовка могилы и захоронение на кладбище</name>
+                <description>Комплекс работ по подготовке места захоронения на одном из открытых или полузакрытых кладбищ Санкт-Петербурга.</description>
+            </offer>
+            <offer id="srv005" available="true">
+                <price>9500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>104</categoryId>
+                <picture>https://spb-grs.ru/wp-content/uploads/katafalk.jpg</picture>
+                <name>Аренда катафального транспорта (Mercedes/Ford)</name>
+                <description>Предоставление специализированного автокатафалка для перевозки гроба с телом и сопровождающих лиц по городу и области.</description>
+            </offer>
+            <offer id="srv006" available="true">
+                <price>45000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>104</categoryId>
+                <picture>https://spb-grs.ru/wp-content/uploads/gruz200.jpg</picture>
+                <name>Встреча и отправка Груза 200</name>
+                <description>Организация транспортировки умершего по России и миру авиа, ж/д или автомобильным транспортом, включая цинковый гроб и запайку.</description>
+            </offer>
+            <offer id="srv007" available="true">
+                <price>5000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>105</categoryId>
+                <picture>https://spb-grs.ru/wp-content/uploads/documents.jpg</picture>
+                <name>Получение гербового свидетельства о смерти</name>
+                <description>Помощь агента в оперативном сборе медицинских справок и получении официального гербового свидетельства в органах ЗАГС / МФЦ.</description>
+            </offer>
+            <offer id="srv008" available="true">
+                <price>2500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>106</categoryId>
+                <picture>https://spb-grs.ru/wp-content/uploads/pominki.jpg</picture>
+                <name>Организация поминальной трапезы (за человека)</name>
+                <description>Подбор поминального зала или ресторана в любом районе города, составление специального меню в соответствии с традициями.</description>
+            </offer>
+            <offer id="srv009" available="true">
+                <price>12000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>107</categoryId>
+                <picture>https://spb-grs.ru/wp-content/uploads/orchestra.jpg</picture>
+                <name>Услуги ритуального оркестра</name>
+                <description>Профессиональное музыкальное сопровождение траурной церемонии на кладбище или в крематории.</description>
+            </offer>
+            <offer id="srv010" available="true">
+                <price>8000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>107</categoryId>
+                <picture>https://spb-grs.ru/wp-content/uploads/brifing.jpg</picture>
+                <name>Услуги церемониймейстера</name>
+                <description>Проведение гражданской панихиды, координация прощания, написание индивидуального сценария памяти.</description>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
