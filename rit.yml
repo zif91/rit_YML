@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-22 16:10">
+<yml_catalog date="2026-09-22 16:13">
     <shop>
         <currencies>
             <currency id="RUB" rate="1"/>
@@ -13,6 +13,15 @@
             <category id="5">Дополнительные услуги</category>
         </categories>
         <offers>
+            <offer id="0f777186bf5d33d9b138f554" available="true">
+                <url>https://spb-grs.ru/ritualnye-uslugi/vyzov-ritualnogo-agenta/</url>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/agent.jpg</picture>
+                <name>Бесплатный выезд ритуального агента</name>
+                <description>Выезд ритуального агента бесплатный. Специалист проконсультирует семью и поможет определить дальнейшие шаги. Дополнительные услуги оформляются отдельно по согласованной смете.</description>
+                <param name="Стоимость выезда">Бесплатно</param>
+            </offer>
             <offer id="d560bab71a0fa2d566225941" available="true">
                 <price>50</price>
                 <currencyId>RUB</currencyId>
@@ -28,15 +37,6 @@
                 <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление катафального транспорта за пределы КАД на не городское кладбище СПб</name>
                 <description>Стоимость 1км маршрута 85 руб. Предоставление катафального транспорта за пределы КАД на не городское кладбище СПб можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
-            </offer>
-            <offer id="0f777186bf5d33d9b138f554" available="true">
-                <url>https://spb-grs.ru/ritualnye-uslugi/vyzov-ritualnogo-agenta/</url>
-                <currencyId>RUB</currencyId>
-                <categoryId>1</categoryId>
-                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/agent.jpg</picture>
-                <name>Выезд ритуального агента</name>
-                <description>Выезд ритуального агента бесплатный. Специалист проконсультирует семью и поможет определить дальнейшие шаги. Дополнительные услуги оформляются отдельно по согласованной смете.</description>
-                <param name="Стоимость">Бесплатно</param>
             </offer>
             <offer id="552f76e68bccf9e9ae117125" available="true">
                 <price>1100</price>
