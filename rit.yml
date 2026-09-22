@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-30T23:14:09+03:00">
+<yml_catalog date="2026-09-22 16:10">
     <shop>
         <currencies>
             <currency id="RUB" rate="1"/>
@@ -9,13 +9,15 @@
             <category id="1">Агентские услуги</category>
             <category id="2">Услуги по оформлению документов</category>
             <category id="3">Услуги по перевозке</category>
+            <category id="4">Организация похорон и кремации</category>
+            <category id="5">Дополнительные услуги</category>
         </categories>
         <offers>
             <offer id="d560bab71a0fa2d566225941" available="true">
                 <price>50</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление катафального транспорта за пределы КАД на не городское кладбище</name>
                 <description>Стоимость 1км маршрута 50 руб. Предоставление катафального транспорта за пределы КАД на не городское кладбище можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -23,23 +25,24 @@
                 <price>85</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление катафального транспорта за пределы КАД на не городское кладбище СПб</name>
                 <description>Стоимость 1км маршрута 85 руб. Предоставление катафального транспорта за пределы КАД на не городское кладбище СПб можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
             <offer id="0f777186bf5d33d9b138f554" available="true">
-                <price>1100</price>
+                <url>https://spb-grs.ru/ritualnye-uslugi/vyzov-ritualnogo-agenta/</url>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
-                <name>Вызов агента для оформления заказа на организацию похорон</name>
-                <description>Вызов агента для оформления заказа на организацию похорон можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/agent.jpg</picture>
+                <name>Выезд ритуального агента</name>
+                <description>Выезд ритуального агента бесплатный. Специалист проконсультирует семью и поможет определить дальнейшие шаги. Дополнительные услуги оформляются отдельно по согласованной смете.</description>
+                <param name="Стоимость">Бесплатно</param>
             </offer>
             <offer id="552f76e68bccf9e9ae117125" available="true">
                 <price>1100</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>2</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/documents.jpg</picture>
                 <name>Оформление заказа на предмет ритуала</name>
                 <description>Оформление заказа на предмет ритуала можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -47,7 +50,7 @@
                 <price>1700</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>2</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Организация и оформление пассажирского транспорта</name>
                 <description>Организация и оформление пассажирского транспорта можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -55,7 +58,7 @@
                 <price>2200</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>2</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Организация и оформление катафалка представительского класса</name>
                 <description>Организация и оформление катафалка представительского класса можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -63,7 +66,7 @@
                 <price>2200</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Подача катафального транспорта</name>
                 <description>Подача катафального транспорта можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -71,7 +74,7 @@
                 <price>2800</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/ceremony.jpg</picture>
                 <name>Организация и оформление отпевания</name>
                 <description>Организация и оформление отпевания можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -79,7 +82,7 @@
                 <price>2800</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/attendants.jpg</picture>
                 <name>Организация и оформление ритуальной бригады сопровождения</name>
                 <description>Организация и оформление ритуальной бригады сопровождения можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -87,7 +90,7 @@
                 <price>2800</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление катафального транспорта, Индивидуальный ритуальный маршрут, Автобус до 10 мест</name>
                 <description>2000 за 1 час. Минимальный заказ — 4 часа. Индивидуальный маршрут. Согласовывается заранее с Заказчиком. Предоставление катафального транспорта, Индивидуальный ритуальный маршрут, Автобус до 10 мест можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -95,7 +98,7 @@
                 <price>2800</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/delivery.jpg</picture>
                 <name>Доставка малых похоронных принадлежностей к подъезду/зданию в течение дня</name>
                 <description>Услуга включает разгрузку похоронных принадлежностей. Доставка малых похоронных принадлежностей к подъезду/зданию в течение дня можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -103,7 +106,7 @@
                 <price>3300</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>2</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/documents.jpg</picture>
                 <name>Оформление и доставка свидетельства о смерти</name>
                 <description>Оформление свидетельства о смерти в отделе ЗАГС. Доставка гербового свидетельства о смерти по согласованному с заказчиком адресу. Оформление и доставка свидетельства о смерти можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -111,7 +114,7 @@
                 <price>3300</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/attendants.jpg</picture>
                 <name>Организация сопроводительной ритуальной бригады VIP</name>
                 <description>Организация сопроводительной ритуальной бригады VIP можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -119,7 +122,7 @@
                 <price>3500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>2</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/documents.jpg</picture>
                 <name>Оформление и доставка врачебного свидетельства о смерти</name>
                 <description>Оформление и доставка врачебного свидетельства о смерти. Доставка свидетельства о смерти по согласованному с заказчиком адресу. Оформление и доставка врачебного свидетельства о смерти можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -127,7 +130,7 @@
                 <price>3500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/coffin.jpg</picture>
                 <name>Передержка по ГОСТу</name>
                 <description>Передержка по ГОСТу можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -135,7 +138,7 @@
                 <price>3900</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/delivery.jpg</picture>
                 <name>Доставка вещей и одежды для умершего в морг</name>
                 <description>Доставка вещей и одежды для умершего в морг можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -143,7 +146,7 @@
                 <price>3900</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/documents.jpg</picture>
                 <name>Оформление кремации или захоронения</name>
                 <description>Оформление кремации или захоронения можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -151,7 +154,7 @@
                 <price>4200</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/documents.jpg</picture>
                 <name>Оплата услуг морга</name>
                 <description>Оплата услуг морга можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -159,7 +162,7 @@
                 <price>4800</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление катафального транспорта за пределы КАД на не городское кладбище</name>
                 <description>Предоставление катафального транспорта за пределы КАД на не городское кладбище можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -167,7 +170,7 @@
                 <price>5400</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/delivery.jpg</picture>
                 <name>Доставка похоронных принадлежностей</name>
                 <description>Доставка похоронных принадлежностей к подъезду здания в течение дня. В стоимость также входит погрузка-разгрузка похоронных принадлежностей. Доставка похоронных принадлежностей можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -175,7 +178,7 @@
                 <price>5400</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Дополнительная точка в маршруте</name>
                 <description>Дополнительная точка в маршруте можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -183,7 +186,7 @@
                 <price>6100</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/agent.jpg</picture>
                 <name>Сопровождение агентом заказчика в день похорон: в морг и на кладбище (крематорий)</name>
                 <description>Сопровождение агентом заказчика в день похорон: в морг и на кладбище (крематорий) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -191,7 +194,7 @@
                 <price>6100</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/urn.jpg</picture>
                 <name>Доставка урны из крематория по адресу, согласованному с заказчиком в пределах СПб</name>
                 <description>Доставка урны из крематория по адресу, согласованному с заказчиком в пределах СПб можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -199,7 +202,7 @@
                 <price>6100</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/urn.jpg</picture>
                 <name>Услуга агента по организации захоронения урны и сопровождение на всех этапах</name>
                 <description>Услуга агента по организации захоронения урны и сопровождение на всех этапах можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -207,7 +210,7 @@
                 <price>6500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/agent.jpg</picture>
                 <name>Расцинковка цинкового контейнера</name>
                 <description>Расцинковка цинкового контейнера можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -215,7 +218,7 @@
                 <price>6500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/documents.jpg</picture>
                 <name>Опломбировка урны с прахом и подготовка документов для отправки в другой город</name>
                 <description>Опломбировка урны с прахом и подготовка документов для отправки в другой город можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -223,7 +226,7 @@
                 <price>6800</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/agent.jpg</picture>
                 <name>Ритуальный пакет услуг №1</name>
                 <description>Оформление заказа на предмет ритуала Оформление свидетельства о смерти в отделе ЗАГС Оформление и доставка врачебного свидетельства о смерти Ритуальный пакет услуг №1 можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -231,7 +234,7 @@
                 <price>7500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/delivery.jpg</picture>
                 <name>Срочная доставка похоронных принадлежностей в течении 3-х часов</name>
                 <description>Срочная доставка похоронных принадлежностей в течении 3-х часов можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -239,7 +242,7 @@
                 <price>8500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/hall.jpg</picture>
                 <name>Предоставление прощального зала</name>
                 <description>Предоставление прощального зала можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -247,7 +250,7 @@
                 <price>9400</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Встреча груза 200</name>
                 <description>Встреча «Груз 200». Стоимость транспортных услуг оплачивается отдельно Встреча груза 200 можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -255,7 +258,7 @@
                 <price>9400</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>2</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/documents.jpg</picture>
                 <name>Оформление и получение документов для перевозки в другой город</name>
                 <description>Оформление и получение документов для перевозки в другой город можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -263,7 +266,7 @@
                 <price>10500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>2</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/documents.jpg</picture>
                 <name>Груз 200 — Оформление и получение документов для перевозки в другой город страны ближнего зарубежья (СНГ)</name>
                 <description>Груз 200 — Оформление и получение документов для перевозки в другой город страны ближнего зарубежья (СНГ) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -271,7 +274,7 @@
                 <price>10500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>2</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/documents.jpg</picture>
                 <name>Груз 200 — Оформление и получение документов для перевозки в другой город страны дальнего зарубежья (СНГ)</name>
                 <description>Груз 200 — Оформление и получение документов для перевозки в другой город страны дальнего зарубежья (СНГ) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -279,7 +282,7 @@
                 <price>11000</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/ceremony.jpg</picture>
                 <name>Церемониймейстер (вариант 2)</name>
                 <description>Церемониймейстер (вариант 2) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -287,7 +290,7 @@
                 <price>12000</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/gravecare.jpg</picture>
                 <name>Установка чугунной таблички на крест на кладбищах СПб</name>
                 <description>Установка чугунной таблички на крест на кладбищах СПб можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -295,7 +298,7 @@
                 <price>13200</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/documents.jpg</picture>
                 <name>Оформление заказа на организацию похорон</name>
                 <description>Оформление заказа на организацию похорон. Выезд агента для контроля за проведением похорон без присутствия заказчика. Оформление заказа на организацию похорон можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -303,7 +306,7 @@
                 <price>13200</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/agent.jpg</picture>
                 <name>Ритуальный пакет услуг №2</name>
                 <description>Оформление заказа на предмет ритуала Оформление и доставка врачебного свидетельства о смерти Оформление свидетельства о смерти в отделе ЗАГС Сдача вещей в морг Оплата услуг морга Оформление катафального транспорта Ритуальный пакет услуг №2 можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -311,7 +314,7 @@
                 <price>13500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Ритуальный маршрут Морг Екатерининский 10 — Крематорий</name>
                 <description>Перевозка осуществляется а/м Газель Ритуальный маршрут Морг Екатерининский 10 — Крематорий можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -319,7 +322,7 @@
                 <price>13800</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/agent.jpg</picture>
                 <name>Сопровождение агентом заказчика в день похорон: в морг, церковь и на кладбище (крематорий)</name>
                 <description>Сопровождение агентом заказчика в день похорон: в морг, церковь и на кладбище (крематорий) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -327,7 +330,7 @@
                 <price>15500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/attendants.jpg</picture>
                 <name>Услуги ритуальной бригады — 2 человека (Стандарт)</name>
                 <description>Услуги ритуальной бригады — 2 человека (Стандарт) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -335,7 +338,7 @@
                 <price>17600</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление отдельного автотранспорта для ритуальной бригады сопровождения в пределах СПб</name>
                 <description>Предоставление отдельного автотранспорта для ритуальной бригады сопровождения в пределах СПб можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -343,7 +346,7 @@
                 <price>18500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/agent.jpg</picture>
                 <name>Ритуальный пакет услуг №3</name>
                 <description>Оформление заказа на предмет ритуала Оформление и доставка врачебного свидетельства о смерти Оформление свидетельства о смерти в отделе ЗАГС Сдача вещей в морг Оплата услуг морга Оформление катафального транспорта Оформление кремации / захоронения Ритуальный пакет услуг №3 можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -351,7 +354,7 @@
                 <price>18500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Услуги по перевозке Ритуальный маршрут №1 Морг — Кладбище/Крематорий</name>
                 <description>Перевозка от морга до кладбища или крематория. Маршрут организован в одну сторону. Услуги по перевозке Ритуальный маршрут №1 Морг — Кладбище/Крематорий можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -359,7 +362,7 @@
                 <price>18500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление отдельного автотранспорта для перевозки груз-200 из аэропорта Пулково в морг</name>
                 <description>Предоставление отдельного автотранспорта для перевозки груз-200 из аэропорта Пулково в морг можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -367,7 +370,7 @@
                 <price>20500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/attendants.jpg</picture>
                 <name>Услуги ритуальной бригады — 3 человека (Стандарт)</name>
                 <description>Услуги ритуальной бригады — 3 человека (Стандарт) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -375,7 +378,7 @@
                 <price>20500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/attendants.jpg</picture>
                 <name>Услуги ритуальной бригады VIP — 2 человека</name>
                 <description>Услуги ритуальной бригады VIP — 2 человека можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -383,7 +386,7 @@
                 <price>21500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Услуги по перевозке Ритуальный маршрут №2 Морг — Кладбище/Крематорий</name>
                 <description>Перевозка от морга до кладбища или крематория. Маршрут организован в обе стороны — перевозка туда и обратно. Услуги по перевозке Ритуальный маршрут №2 Морг — Кладбище/Крематорий можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -391,7 +394,7 @@
                 <price>22000</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/ceremony.jpg</picture>
                 <name>Церемониймейстер (вариант 1)</name>
                 <description>Церемониймейстер (вариант 1) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -399,7 +402,7 @@
                 <price>24500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/attendants.jpg</picture>
                 <name>Услуги ритуальной бригады — 4 человека (Стандарт)</name>
                 <description>Услуги ритуальной бригады — 4 человека (Стандарт) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -407,7 +410,7 @@
                 <price>26400</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление отдельного автотранспорта для перевозки пассажиров в пределах СПб — до 19 мест</name>
                 <description>Предоставление отдельного автотранспорта для перевозки пассажиров в пределах СПб — до 19 мест можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -415,7 +418,7 @@
                 <price>26500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление отдельного автотранспорта для ритуальной бригады сопровождения в пределах СПб + Храм</name>
                 <description>Предоставление отдельного автотранспорта для ритуальной бригады сопровождения в пределах СПб + Храм можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -423,7 +426,7 @@
                 <price>27000</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/coffin.jpg</picture>
                 <name>Подготовка тела усопшего к закрытому гробу</name>
                 <description>Подготовка тела усопшего к закрытому гробу можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -431,7 +434,7 @@
                 <price>27500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/agent.jpg</picture>
                 <name>Ритуальный пакет услуг №4</name>
                 <description>Оформление заказа на предмет ритуала Оформление и доставка врачебного свидетельства о смерти Оформление свидетельства о смерти в отделе ЗАГС Сдача вещей в морг Оплата услуг морга Оформление катафального транспорта Оформление кремации / захоронения Организация отпевания Сопровождение агентом заказчика в день похорон: в морг, церковь и на кладбище (крематорий) Ритуальный пакет услуг №4 можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -439,7 +442,7 @@
                 <price>27500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Аренда катафального автобуса до 10 мест с маршрутом в СПб</name>
                 <description>Аренда катафального автобуса до 10 мест с маршрутом в СПб можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -447,7 +450,7 @@
                 <price>28500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/attendants.jpg</picture>
                 <name>Услуги ритуальной бригады VIP — 3 человека</name>
                 <description>Услуги ритуальной бригады VIP — 3 человека можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -455,7 +458,7 @@
                 <price>29500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Услуги по перевозке Ритуальный маршрут №3 Морг — Церковь — Кладбище/Крематорий</name>
                 <description>Перевозка по маршруту: Морг Церковь Кладбище или Крематорий. Услуги по перевозке Ритуальный маршрут №3 Морг — Церковь — Кладбище/Крематорий можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -463,7 +466,7 @@
                 <price>30500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/attendants.jpg</picture>
                 <name>Услуги ритуальной бригады VIP — 4 человека</name>
                 <description>Услуги ритуальной бригады VIP — 4 человека можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -471,7 +474,7 @@
                 <price>36500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/attendants.jpg</picture>
                 <name>Услуги ритуальной бригады — 6 человек (Стандарт)</name>
                 <description>Услуги ритуальной бригады — 6 человек (Стандарт) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -479,7 +482,7 @@
                 <price>36500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/coffin.jpg</picture>
                 <name>Подготовка тела усопшего к открытому гробу (лицо)</name>
                 <description>Подготовка тела усопшего к открытому гробу (лицо) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -487,7 +490,7 @@
                 <price>37500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Услуги по перевозке Ритуальный маршрут №4 Дом — Морг — Церковь — Кладбище/Крематорий</name>
                 <description>Перевозка по маршруту: Дом. Адрес по согласованию Морг Церковь Кладбище или Крематорий. Услуги по перевозке Ритуальный маршрут №4 Дом — Морг — Церковь — Кладбище/Крематорий можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -495,7 +498,7 @@
                 <price>38000</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/agent.jpg</picture>
                 <name>Ритуальный пакет услуг №5</name>
                 <description>Оформление заказа на предмет ритуала Оформление и доставка врачебного свидетельства о смерти Оформление свидетельства о смерти в отделе ЗАГС Сдача вещей в морг Оплата услуг морга Оформление катафального транспорта Оформление кремации / захоронения Организация отпевания Сопровождение агентом заказчика в день похорон: в морг, церковь и на кладбище (крематорий) Оформление бригады сопровождения Оформление пассажирского транспорта Организация катафалка представительского класса Подача катафального транспорта Ритуальный пакет услуг №5 можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -503,7 +506,7 @@
                 <price>38500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Аренда катафального транспорта Мерседес Спринтер 8 мест в СПб</name>
                 <description>Аренда катафального транспорта Мерседес Спринтер 8 мест в СПб можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -511,7 +514,7 @@
                 <price>40500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/coffin.jpg</picture>
                 <name>Подготовка тела усопшего к открытому гробу (лицо и руки)</name>
                 <description>Подготовка тела усопшего к открытому гробу (лицо и руки) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -519,7 +522,7 @@
                 <price>41800</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление отдельного автотранспорта для перевозки пассажиров в пределах СПб — до 30 мест</name>
                 <description>Предоставление отдельного автотранспорта для перевозки пассажиров в пределах СПб — до 30 мест можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -527,7 +530,7 @@
                 <price>46000</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/attendants.jpg</picture>
                 <name>Услуги ритуальной бригады (VIP, 6 человек)</name>
                 <description>Услуги ритуальной бригады (VIP, 6 человек) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -535,7 +538,7 @@
                 <price>46500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/coffin.jpg</picture>
                 <name>Подготовка тела усопшего — бальзамирование</name>
                 <description>Подготовка тела усопшего — бальзамирование можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -543,7 +546,7 @@
                 <price>49500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление специального отдельного автотранспорта для перевозки пассажиров в пределах СПб — до 30 мест</name>
                 <description>Предоставление специального отдельного автотранспорта для перевозки пассажиров в пределах СПб — до 30 мест можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -551,7 +554,7 @@
                 <price>49500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление катафального транспорта VIP класса HYUNDAI STAREX (В пределах СПб)</name>
                 <description>Предоставление катафального транспорта VIP класса. Стоимость указана за предоставление в пределах Санкт-Петербурга. Автомобиль: HYUNDAI STAREX Предоставление катафального транспорта VIP класса HYUNDAI STAREX (В пределах СПб) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -559,7 +562,7 @@
                 <price>49500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Аренда катафального транспорта Мерседес Спринтер 15 мест</name>
                 <description>Аренда катафального транспорта Мерседес Спринтер 15 мест можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -567,7 +570,7 @@
                 <price>49500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление катафального транспорта Мерседес Майбах</name>
                 <description>Предоставление катафального транспорта Мерседес Майбах можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -575,7 +578,7 @@
                 <price>50000</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/coffin.jpg</picture>
                 <name>Подготовка тела усопшего — реставрация</name>
                 <description>Подготовка тела усопшего — реставрация можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -583,7 +586,7 @@
                 <price>55000</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/music.jpg</picture>
                 <name>Ритуальный оркестр, Музыкальное сопровождение</name>
                 <description>Музыкальное сопровождение обряда захоронения Музыканты квартета медных духовых инструментов (2 трубы баритон и туба) Ритуальный оркестр, Музыкальное сопровождение можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -591,7 +594,7 @@
                 <price>63800</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление катафального транспорта (Шевроле Экспресс + 3 места))</name>
                 <description>Предоставление катафального транспорта (Шевроле Экспресс + 3 места)) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -599,7 +602,7 @@
                 <price>64900</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление катафального транспорта (Кадилак Дэвиль)</name>
                 <description>Предоставление катафального транспорта (Кадилак Дэвиль) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -607,7 +610,7 @@
                 <price>73700</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление катафального транспорта (Крайслер + 4 места)</name>
                 <description>Предоставление катафального транспорта (Крайслер + 4 места) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
             </offer>
@@ -615,9 +618,136 @@
                 <price>97500</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>3</categoryId>
-                <picture>https://spb-grs.ru/images/listing/service-price.jpg</picture>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
                 <name>Предоставление катафального транспорта (Мерседес Е-200)</name>
                 <description>Предоставление катафального транспорта (Мерседес Е-200) можно заказать по телефону или при личном обращении в офис службы. Большой выбор ритуальных товаров в Интернет-магазине ООО «ГУП ЕС ГРС».</description>
+            </offer>
+            <offer id="83777a15ca464508eda2a49c" available="true">
+                <url>https://spb-grs.ru/ritualnye-uslugi/besplatnaya-perevozka-tela-v-morg/</url>
+                <price>3000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>3</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/transport.jpg</picture>
+                <name>Перевозка умершего в морг без заказа похорон</name>
+                <description>От 3 000 ₽ за отдельную перевозку без заказа комплекса похорон. При заказе пакета похорон или направлении на судебно-медицинскую экспертизу перевозка бесплатна.</description>
+            </offer>
+            <offer id="a0658356a52434ff07c1193c" available="true">
+                <url>https://spb-grs.ru/ritualnye-uslugi/kopka-mogily/</url>
+                <price>15000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>5</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/burial.jpg</picture>
+                <name>Копка могилы</name>
+                <description>Стоимость от 15 000 ₽. Точная цена зависит от условий участка и согласованного набора работ.</description>
+            </offer>
+            <offer id="3fc842a5ce6a085eb91ba1f4" available="true">
+                <url>https://spb-grs.ru/ritualnye-uslugi/uborka-mogil-na-kladbishhe/</url>
+                <price>5000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>5</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/gravecare.jpg</picture>
+                <name>Уборка могилы на кладбище</name>
+                <description>Стоимость от 5 000 ₽. Уборка участка от мусора, сухостоя и сорняков; состав работ согласовывается при заказе.</description>
+            </offer>
+            <offer id="7ef615b42d32186a4826638c" available="true">
+                <url>https://spb-grs.ru/ritualnye-uslugi/pominalnyj-obed/</url>
+                <price>800</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>5</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/meal.jpg</picture>
+                <name>Поминальный обед для одного гостя</name>
+                <description>Стоимость обслуживания одного гостя от 800 ₽. Итоговая сумма зависит от числа гостей и меню.</description>
+                <param name="Единица цены">один гость</param>
+            </offer>
+            <offer id="b166be6b4625210ef19363f7" available="true">
+                <url>https://spb-grs.ru/</url>
+                <price>6100</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/burial.jpg</picture>
+                <name>Индивидуальный план с захоронением</name>
+                <description>Стоимость от 6 100 ₽. Состав плана и итоговая смета согласовываются до заключения договора.</description>
+            </offer>
+            <offer id="a73cc8a0a8bcaa048392a800" available="true">
+                <url>https://spb-grs.ru/</url>
+                <price>6100</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/cremation.jpg</picture>
+                <name>Индивидуальный план с кремацией</name>
+                <description>Стоимость от 6 100 ₽. Состав плана и итоговая смета согласовываются до заключения договора.</description>
+            </offer>
+            <offer id="444ef829630913f8513dcdc7" available="true">
+                <url>https://spb-grs.ru/</url>
+                <price>27000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/burial.jpg</picture>
+                <name>План похорон №1 с захоронением</name>
+                <description>Стоимость от 27 000 ₽. Состав плана и итоговая смета согласовываются до заключения договора.</description>
+            </offer>
+            <offer id="23a516b5abf7c3d95d697a84" available="true">
+                <url>https://spb-grs.ru/</url>
+                <price>19500</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/cremation.jpg</picture>
+                <name>План похорон №1 с кремацией</name>
+                <description>Стоимость от 19 500 ₽. Состав плана и итоговая смета согласовываются до заключения договора.</description>
+            </offer>
+            <offer id="dd50cfd7a31d43b7104a3a64" available="true">
+                <url>https://spb-grs.ru/</url>
+                <price>47000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/burial.jpg</picture>
+                <name>План похорон №2 с захоронением</name>
+                <description>Стоимость от 47 000 ₽. Состав плана и итоговая смета согласовываются до заключения договора.</description>
+            </offer>
+            <offer id="ece902a3f60f088edd64d6ff" available="true">
+                <url>https://spb-grs.ru/</url>
+                <price>38000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/cremation.jpg</picture>
+                <name>План похорон №2 с кремацией</name>
+                <description>Стоимость от 38 000 ₽. Состав плана и итоговая смета согласовываются до заключения договора.</description>
+            </offer>
+            <offer id="16dcd7ddadd80fa0840cb9c2" available="true">
+                <url>https://spb-grs.ru/</url>
+                <price>75000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/burial.jpg</picture>
+                <name>План похорон №3 с захоронением</name>
+                <description>Стоимость от 75 000 ₽. Состав плана и итоговая смета согласовываются до заключения договора.</description>
+            </offer>
+            <offer id="e3833bb74ac2860c0ce31664" available="true">
+                <url>https://spb-grs.ru/</url>
+                <price>53000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/cremation.jpg</picture>
+                <name>План похорон №3 с кремацией</name>
+                <description>Стоимость от 53 000 ₽. Состав плана и итоговая смета согласовываются до заключения договора.</description>
+            </offer>
+            <offer id="0d48cb9294f301d39bdfddbc" available="true">
+                <url>https://spb-grs.ru/</url>
+                <price>115800</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/burial.jpg</picture>
+                <name>План похорон №4 с захоронением</name>
+                <description>Стоимость от 115 800 ₽. Состав плана и итоговая смета согласовываются до заключения договора.</description>
+            </offer>
+            <offer id="dcf766bdf78f7f34a87cfe4a" available="true">
+                <url>https://spb-grs.ru/</url>
+                <price>95000</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/cremation.jpg</picture>
+                <name>План похорон №4 с кремацией</name>
+                <description>Стоимость от 95 000 ₽. Состав плана и итоговая смета согласовываются до заключения договора.</description>
             </offer>
         </offers>
     </shop>
