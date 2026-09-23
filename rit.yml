@@ -15,7 +15,7 @@
         <offers>
             <offer id="0f777186bf5d33d9b138f554" available="true">
                 <url>https://spb-grs.ru/ritualnye-uslugi/vyzov-ritualnogo-agenta/</url>
-                <price>0</price>
+                <price>1</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
                 <picture>https://raw.githubusercontent.com/zif91/rit_YML/main/images/agent.jpg</picture>
